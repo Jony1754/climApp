@@ -1,0 +1,23 @@
+.side {
+  position: absolute;
+  width: 33%;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  padding: 20px;
+  backdrop-filter: blur(50px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  hr {
+    width: 100%;
+  }
+}
+
+.weather {
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
