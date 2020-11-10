@@ -5,7 +5,6 @@ import SideDetails from "./containers/SideDetails";
 
 class App extends Component {
   constructor(props) {
-    console.log("constructor");
     super(props);
     this.state = { long: 0, lat: 0, country: "", weather: [], loading: true };
   }
@@ -34,20 +33,13 @@ class App extends Component {
 
   setCoordinates() {
     navigator.geolocation.getCurrentPosition((pos) => {
-      console.log(
-        "Setcoordinates called with",
-        pos.coords.latitude,
-        pos.coords.longitude
-      );
       this.setState(
         { long: pos.coords.longitude, lat: pos.coords.latitude },
         this.fetchData
       );
-      console.log("state after setstate in setcordinates", this.state);
     });
   }
   render() {
-    console.log("render method called");
     return (
       <div className="App">
         <CurrentLocationDetails

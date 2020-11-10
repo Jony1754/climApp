@@ -5,7 +5,7 @@ const CurrentLocationDetails = ({ data, loading }) => {
   if (!loading) {
     let date = new Date();
     let icon = data.weather[0].icon;
-    const URL = `http://openweathermap.org/img/wn/${icon}@2x.png`;
+    const URL = `https://openweathermap.org/img/wn/${icon}@2x.png`;
     return (
       <div className="current__container">
         <h3>the.weather</h3>
