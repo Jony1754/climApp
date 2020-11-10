@@ -5,6 +5,10 @@
   box-sizing: border-box;
   color: white;
 }
+::-webkit-scrollbar {
+  display: none;
+}
 body {
   margin: 0;
+  height: 100vh;
 }

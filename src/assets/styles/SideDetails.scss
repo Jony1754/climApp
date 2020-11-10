@@ -12,12 +12,34 @@
   hr {
     width: 100%;
   }
+  h1,
+  h2,
+  h3 {
+    color: rgba(255, 255, 255, 0.5);
+  }
 }
 
 .weather {
+  overflow: scroll;
   &__item {
     display: flex;
     align-items: center;
     justify-content: space-between;
   }
+}
+
+.nearby {
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  img {
+    width: 60px;
+  }
+}
+.nearby__item--details {
+  display: flex;
+  align-items: center;
 }

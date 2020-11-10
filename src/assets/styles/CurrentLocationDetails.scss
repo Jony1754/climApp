@@ -25,11 +25,16 @@ p {
   &__details {
     margin-right: 20px;
     margin-left: 20px;
+    text-align: center;
     h2 {
       font-size: 40px;
     }
     p {
       font-size: 20px;
     }
+  }
+
+  &__icon {
+    width: 70px;
   }
 }
