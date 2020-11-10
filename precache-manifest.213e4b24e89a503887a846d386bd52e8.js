@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0ce814e161425d7613e45fcbd63aaba",
+    "revision": "632affa59687cf173fdb84fbdc0751b9",
     "url": "/climApp/index.html"
   },
   {
-    "revision": "1a207fc847dadc9e9beb",
+    "revision": "e02ef6ed6fce2aee8028",
     "url": "/climApp/static/css/main.c2262d88.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/climApp/static/js/2.d3d74ad1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a207fc847dadc9e9beb",
-    "url": "/climApp/static/js/main.830ee211.chunk.js"
+    "revision": "e02ef6ed6fce2aee8028",
+    "url": "/climApp/static/js/main.72618fbe.chunk.js"
   },
   {
     "revision": "93492e5fd67332313c75",

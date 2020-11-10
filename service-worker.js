@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/climApp/precache-manifest.f2f5821d4217811a9f2f679e4268ee42.js"
+  "/climApp/precache-manifest.213e4b24e89a503887a846d386bd52e8.js"
 );
 
 self.addEventListener('message', (event) => {
