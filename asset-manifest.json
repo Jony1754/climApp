@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/climApp/static/css/main.c2262d88.chunk.css",
+    "main.js": "/climApp/static/js/main.830ee211.chunk.js",
+    "main.js.map": "/climApp/static/js/main.830ee211.chunk.js.map",
+    "runtime-main.js": "/climApp/static/js/runtime-main.1d4c12ef.js",
+    "runtime-main.js.map": "/climApp/static/js/runtime-main.1d4c12ef.js.map",
+    "static/js/2.d3d74ad1.chunk.js": "/climApp/static/js/2.d3d74ad1.chunk.js",
+    "static/js/2.d3d74ad1.chunk.js.map": "/climApp/static/js/2.d3d74ad1.chunk.js.map",
+    "index.html": "/climApp/index.html",
+    "precache-manifest.f2f5821d4217811a9f2f679e4268ee42.js": "/climApp/precache-manifest.f2f5821d4217811a9f2f679e4268ee42.js",
+    "service-worker.js": "/climApp/service-worker.js",
+    "static/css/main.c2262d88.chunk.css.map": "/climApp/static/css/main.c2262d88.chunk.css.map",
+    "static/js/2.d3d74ad1.chunk.js.LICENSE.txt": "/climApp/static/js/2.d3d74ad1.chunk.js.LICENSE.txt",
+    "static/media/CurrentLocationDetails.scss": "/climApp/static/media/thunder.e4f16078.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d4c12ef.js",
+    "static/js/2.d3d74ad1.chunk.js",
+    "static/css/main.c2262d88.chunk.css",
+    "static/js/main.830ee211.chunk.js"
+  ]
+}
